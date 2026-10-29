@@ -146,4 +146,4 @@ A classe `Calculadora` e seus métodos foram documentados com comentários JavaD
 
 ## 🔗 Link do repositório
 
-[https://github.com/SEU-USUARIO/Projeto-Calculadora](https://github.com/SEU-USUARIO/Projeto-Calculadora)
+[https://github.com/GuilhermeR0drigues/Projeto-Calculadora](https://github.com/SEU-USUARIO/Projeto-Calculadora)
